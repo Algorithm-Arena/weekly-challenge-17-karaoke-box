@@ -2,7 +2,7 @@
 
 **For this challenge, you need to implement a karaoke visualization of a song where you display an indication of when the next set of lyrics is going to happen.** I love going to karaoke but one thing that drives me crazy is that I never know when to start singing the next set of lyrics and always end up off beat. For this challenge you'll want to find a creative way to help the singer.
 
-<img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/assets/197597/ddd927cf-415f-445a-b23d-b205da06442e">
+<img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/assets/197597/f7eb2f11-e404-49f7-8d6d-ed5e6225ed8a">
 
 ### Prizes:
 * Winner: $100
