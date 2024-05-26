@@ -4,6 +4,25 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/assets/197597/f7eb2f11-e404-49f7-8d6d-ed5e6225ed8a">
 
+### Winners:
+
+* The winner for $100 is @BenjaminAster! The moving bar to indicate when the sentence starts and the little ball for when words play are very very useful guides for karaoke! I had a lot of fun singing Karma with it <3 https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/issues/3
+
+https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/assets/197597/cc2db118-b0f1-4a18-9711-8132a7c2b1f1
+
+* In second place with $60 are @seanyang0813 & @kevinjzhang! They used a speech to text model to extract where words are, timings are unfortunately not precise enough to be used standalone. https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/issues/2
+
+https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/assets/197597/041b4bad-0c2a-44c9-b753-a6237ba19fb2
+
+* In third place for $40 is @nikpundik! The most amazing part of the submission is actually the song picker, such a cool way to interact with a menu! https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/issues/1
+
+https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/assets/197597/ddb41795-39a8-4318-a319-edee6f44a752
+
+* Honorable mention for @Uzo2005 who went all in on the ML side of things, where he not only extracted the lyrics automatically but also the instrumental version! This is insane work but was submitted a few days late :( https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/issues/4
+
+https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box/assets/197597/adf18b25-6b0e-4da5-b333-0c15fdff150a
+
+
 ### Prizes:
 * Winner: $100
 * 2nd: $60
